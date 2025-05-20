@@ -1,9 +1,9 @@
 package main
 
 import (
-	"awesomeProject/models"
-	"awesomeProject/service"
 	"fmt"
+	"parking-lot-problem/models"
+	"parking-lot-problem/service"
 )
 
 //TIP To run your code, right-click the code and select <b>Run</b>. Alternatively, click

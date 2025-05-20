@@ -1,6 +1,6 @@
 package service
 
-import "awesomeProject/models"
+import "parking-lot-problem/models"
 
 type ParkingLotImpl interface {
 	ParkCar(car *models.Car) (int, error)

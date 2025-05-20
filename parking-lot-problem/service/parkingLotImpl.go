@@ -1,8 +1,8 @@
 package service
 
 import (
-	"awesomeProject/models"
 	"errors"
+	"parking-lot-problem/models"
 )
 
 func (p *parkingLot) ParkCar(car *models.Car) (int, error) {

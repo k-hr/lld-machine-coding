@@ -1,7 +1,7 @@
 package service
 
 import (
-	"awesomeProject/models"
+	"parking-lot-problem/models"
 	"sync"
 )
 
