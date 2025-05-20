@@ -1,6 +1,6 @@
 package service
 
-import "parking-lot-problem/models"
+import "lld-machine-coding/parking-lot-problem/models"
 
 type ParkingLotImpl interface {
 	ParkCar(car *models.Car) (int, error)

@@ -1,7 +1,7 @@
 package service
 
 import (
-	"parking-lot-problem/models"
+	"lld-machine-coding/parking-lot-problem/models"
 	"sync"
 )
 

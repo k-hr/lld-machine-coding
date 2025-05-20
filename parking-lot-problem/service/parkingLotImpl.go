@@ -2,7 +2,7 @@ package service
 
 import (
 	"errors"
-	"parking-lot-problem/models"
+	"lld-machine-coding/parking-lot-problem/models"
 )
 
 func (p *parkingLot) ParkCar(car *models.Car) (int, error) {
